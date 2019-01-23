@@ -12,6 +12,7 @@ public interface ICustomerServices {
 		//addCustomer(argumentos)
 		//deleteCustomer()
 		//listCustomer()
+		//modifyCustomer()
 		//test // mejor hacer una clase tests??
 		
 }

@@ -11,6 +11,7 @@ public interface IFilmServices {
 	//addFilm(argumentos)
 	//deleteFilm()
 	//listFilms()
+	//modifyFilm()
 	//test()// mejor hacer una clase tests??
 	
 }

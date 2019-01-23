@@ -1,6 +1,6 @@
 package model;
  
 public enum Genre {
-	//policiaca, romántica, aventuras, comedia, animación y thrille
+	//policiaca, romántica, aventuras, comedia, animación y thrilleR
 
 }
