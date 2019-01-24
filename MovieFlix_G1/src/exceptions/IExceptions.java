@@ -2,5 +2,5 @@ package exceptions;
 
 public interface IExceptions {
 	
-	public void ExcepcionPrueba();
+	//BORRARIA ESTE ARCHIVO, RAZONES EN BaseExceptions
 }
